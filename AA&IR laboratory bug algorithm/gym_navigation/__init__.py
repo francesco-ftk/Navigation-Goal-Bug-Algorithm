@@ -1,5 +1,4 @@
-# TODO
-"""This __init__ file is used to register the environments."""
+""" This __init__ file is used to register the environment """
 from gym.envs.registration import register
 
 register(
