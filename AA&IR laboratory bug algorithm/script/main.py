@@ -15,7 +15,7 @@ env.close()
 
 import gym
 
-env = gym.make('gym_navigation:NavigationGoal-v1', render_mode='human', track_id=1)
+env = gym.make('gym_navigation:NavigationGoal-v0', render_mode='human', track_id=1)
 env.action_space.seed(42)
 
 observation, info = env.reset(seed=42)
