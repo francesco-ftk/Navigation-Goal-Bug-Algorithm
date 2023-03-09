@@ -12,3 +12,5 @@ Despite its simplicity, this is a complete algorithm.
 The implementation was done in Python language using the Gym (Gymnasium now) and Pygame libraries.
 
 Gymnasium documentation: https://gymnasium.farama.org/ 
+
+Switch from 'NavigationGoal-v0' to 'NavigationGoal-v1' for a fun implementation!
