@@ -22,7 +22,7 @@ class NavigationGoal(Navigation):
     MINIMUM_DISTANCE_ROBOT_GOAL = 12  # min distance between robot and goal
     MINIMUM_DISTANCE_OBSTACLE = 4  # min distance between obstacles
     MINIMUM_DISTANCE = 2.5  # min distance among obstacles, robot and goal
-    MINIMUM_SAFE_DISTANCE = 1.5  # 2
+    MINIMUM_SAFE_DISTANCE = 1.5
     N_OBSTACLES = 3
 
     COLLISION_REWARD = -1.0
